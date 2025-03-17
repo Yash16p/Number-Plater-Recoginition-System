@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+# keras
+scikit-learn
+ipykernel
+matplotlib
+seaborn 
+tensorflow
+np_utils
+easyocr
