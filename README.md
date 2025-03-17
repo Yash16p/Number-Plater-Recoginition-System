@@ -126,15 +126,7 @@ The model achieved **97.69% accuracy**. Future improvements could include traini
 5. **Vehicle Fleet Management**
    - Assisting companies in managing their fleets of vehicles by automatically tracking their locations, ensuring proper use, maintenance, and compliance with speed limits.
 
----
 
-## 🤝 Contributing
-Feel free to fork the repo, raise issues, or contribute by adding new features!
-
----
-✉️ **Contact:**  
-[Shubham Singla (GitHub)](https://github.com/Shubham-Singla259)  
-[Shubham Singla (LinkedIn)](https://www.linkedin.com/in/shubham-singla-b19003256/)
 
 
 
